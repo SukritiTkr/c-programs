@@ -100,5 +100,5 @@ gcc filename.c -o output
 ## 📞 Contact
 
 * **GitHub:** [SukritiTkr](https://github.com/SukritiTkr)
-* **Email:** 
+* **Email:** sukritithakur1014@gmail.com
 
