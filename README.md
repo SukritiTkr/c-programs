@@ -1,32 +1,33 @@
-# 🖥️ C Programming Exercises & Projects
+🖥️ C Programming Exercises & Projects
 
-**Completed by Sukriti Thakur**
+Completed by Sukriti Thakur
 
-> A repository containing all C programming exercises, assignments, and projects from my programming class. This is going to be a hands on collection demonstrating the concepts taught, from basics to more advanced topics.
+A repository containing all C programming exercises, assignments, and projects from my programming class. This collection demonstrates the concepts taught, from basics to advanced topics, and includes tested, well-commented programs.
 
----
+📚 Overview
 
-## 📚 Overview
+This repository contains exercises covering a wide range of C programming topics:
 
-This repo covers all topics taught in my programming class, including:
+Basics: syntax, variables, data types, and operators
 
-* Basics of C syntax, variables, and data types
-* Operators and expressions
-* Control flow: loops, conditionals, and switch-case
-* Functions, recursion, and modular programming
-* Arrays, strings, and pointers
-* Structs and file handling
-* Dynamic memory allocation
-* Practice exercises and mini-projects
+Control flow: loops, conditionals, and switch-case
 
-Every exercise will be completed personally, tested and commented for clarity.
+Functions, recursion, and modular programming
 
----
+Arrays, strings, and pointers
 
-## 🗂️ Repository Structure
+Structs and file handling
 
-```
-c-programming/
+Dynamic memory allocation
+
+Sorting, searching, and matrix operations
+
+Practice exercises, mini-projects, and small applications
+
+Every program is personally completed, tested, and documented for clarity.
+
+🗂️ Repository Structure
+c-programs/
 ├── README.md
 ├── basics/
 │   ├── hello_world.c
@@ -43,62 +44,73 @@ c-programming/
 ├── arrays_strings_pointers/
 │   ├── arrays.c
 │   ├── strings.c
-│   └── pointers.c
+│   ├── reverse_string.c
+│   ├── palindrome.c
+│   └── concat_strings.c
 ├── structs_files/
 │   ├── structs.c
-│   └── file_handling.c
+│   ├── file_operations.c
+│   └── student_records.c
+├── sorting_matrix/
+│   ├── bubble_sort.c
+│   ├── selection_sort.c
+│   └── matrix_multiply.c
 ├── dynamic_memory/
 │   └── malloc_free.c
 └── projects/
     ├── mini_project1.c
-    └── mini_project2.c
-```
+    ├── mini_project2.c
+    └── card_deck_array.c
 
----
 
-## ✅ Learning Outcomes
+Note: Some files may exist in multiple folders depending on topic relevance.
 
-After completing the exercises in this repo, you will be able to:
+✅ Key Learning Outcomes
 
-* Write and debug C programs confidently
-* Apply control structures effectively
-* Understand memory management with pointers and dynamic allocation
-* Work with files and structures for data storage
-* Break problems into modular functions
-* Build small, practical projects using C
+By completing these exercises, you will be able to:
 
----
+Write, compile, and debug C programs efficiently
 
-## 💻 Getting Started
+Apply control structures, loops, and functions effectively
 
-1. Clone the repository:
+Understand and manage memory with pointers and dynamic allocation
 
-```bash
-git clone https://github.com/SukritiTkr/c-programming.git
-cd c-programming
-```
+Handle files, structures, and arrays for data storage and processing
 
-2. Compile any C file using GCC:
+Build modular programs for larger applications
 
-```bash
+Implement basic algorithms: sorting, searching, and matrix operations
+
+Develop small practical projects using C
+
+💻 Getting Started
+
+Clone the repository:
+
+git clone https://github.com/SukritiTkr/c-programs.git
+cd c-programs
+
+
+Compile and run any C file using GCC:
+
 gcc filename.c -o output
 ./output
-```
 
-3. Explore folders according to topics to practice or review exercises.
 
----
+Explore folders according to topics to practice or review exercises.
 
-## 📄 Notes
+📄 Notes
 
-* All exercises were completed as part of my first year coursework.
-* Each file contains comments explaining the logic used.
-* This repository is intended for learning and practice purposes.
+All exercises were completed as part of my first-year coursework.
 
----
+Each file contains comments explaining the logic and steps.
 
-## 📞 Contact
+This repository is for learning, practice, and reference purposes.
 
-* **GitHub:** [SukritiTkr](https://github.com/SukritiTkr)
-* **Email:** sukritithakur1014@gmail.com
+Programs are updated to follow safe coding practices (avoiding gets(), using fgets() etc.).
 
+📞 Contact
+
+GitHub: SukritiTkr
+
+Email: sukritithakur1014@gmail.com
